@@ -43,6 +43,7 @@ The only thing I had to change myself was that sometimes the loader lost some ke
 I have tested 2 versions of macOS:
 1) macOS 26.3.2 Tahoe
 2) macOS 15.7.4
+
 I settled on macOS 15 because of the more stable operation and the old design I used to work on.
 If you want to install macOS 26, be prepared to drain your battery faster than on macOS 15.
 # Triple boot (Windows + Linux + macOS)
