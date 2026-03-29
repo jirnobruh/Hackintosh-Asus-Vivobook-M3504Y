@@ -35,7 +35,7 @@ For macOS to work properly, you need to change the Wifi module to a compatible o
 	- Discord crash system
 	- Obsidian works fine, but any pop-up window on top (such as the SlashCommander plugin) causes the application to crash
 	- Telegram works fine, but you can't view any photos or videos
-	- Voodoo audio kext makes the speakers squeak 
+- Voodoo audio kext makes the speakers squeak 
 # How create OpenCore?
 I was creating an OpenCore bootloader in Windows 11 using [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) everything is working fine, so I won't throw my loader yet. 
 The only thing I had to change myself was that sometimes the loader lost some kext. Fixed it using Gemini by sending him config.plist
